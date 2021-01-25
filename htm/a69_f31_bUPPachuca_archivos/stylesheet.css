@@ -4,35 +4,6 @@ col
 	{mso-width-source:auto;}
 br
 	{mso-data-placement:same-cell;}
-.style16
-	{color:#0563C1;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:underline;
-	text-underline-style:single;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;
-	mso-style-name:Hipervínculo;
-	mso-style-id:8;}
-a:link
-	{color:#0563C1;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:underline;
-	text-underline-style:single;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;}
-a:visited
-	{color:#954F72;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:underline;
-	text-underline-style:single;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;}
 .style0
 	{mso-number-format:General;
 	text-align:general;
@@ -77,8 +48,7 @@ td
 .xl65
 	{mso-style-parent:style0;
 	font-size:10.0pt;
-	font-family:Arial;
-	mso-generic-font-family:auto;
+	font-family:Arial, sans-serif;
 	mso-font-charset:0;
 	text-align:center;
 	border:.5pt solid windowtext;
@@ -87,23 +57,20 @@ td
 	white-space:normal;}
 .xl66
 	{mso-style-parent:style0;
-	text-align:left;
-	border:.5pt solid windowtext;}
+	text-align:justify;
+	border:.5pt solid windowtext;
+	white-space:normal;}
 .xl67
 	{mso-style-parent:style0;
-	mso-number-format:"Short Date";
 	text-align:left;
 	border:.5pt solid windowtext;}
 .xl68
 	{mso-style-parent:style0;
+	mso-number-format:"Short Date";
 	text-align:left;
-	border:.5pt solid windowtext;
-	white-space:normal;}
+	border:.5pt solid windowtext;}
 .xl69
-	{mso-style-parent:style16;
-	color:#0563C1;
-	text-decoration:underline;
-	text-underline-style:single;
+	{mso-style-parent:style0;
 	text-align:left;
 	border:.5pt solid windowtext;
 	white-space:normal;}
@@ -111,8 +78,7 @@ td
 	{mso-style-parent:style0;
 	color:white;
 	font-weight:700;
-	font-family:Arial;
-	mso-generic-font-family:auto;
+	font-family:Arial, sans-serif;
 	mso-font-charset:0;
 	text-align:center;
 	border:.5pt solid windowtext;
@@ -121,8 +87,7 @@ td
 .xl71
 	{mso-style-parent:style0;
 	font-size:10.0pt;
-	font-family:Arial;
-	mso-generic-font-family:auto;
+	font-family:Arial, sans-serif;
 	mso-font-charset:0;
 	border:.5pt solid windowtext;
 	background:#E1E1E1;
@@ -130,8 +95,7 @@ td
 .xl72
 	{mso-style-parent:style0;
 	font-size:10.0pt;
-	font-family:Arial;
-	mso-generic-font-family:auto;
+	font-family:Arial, sans-serif;
 	mso-font-charset:0;
 	border:.5pt solid windowtext;
 	background:#E1E1E1;

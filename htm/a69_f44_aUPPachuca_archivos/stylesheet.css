@@ -25,7 +25,9 @@ br
 	mso-style-id:0;}
 td
 	{mso-style-parent:style0;
-	padding:0px;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
 	mso-ignore:padding;
 	color:black;
 	font-size:11.0pt;
@@ -56,21 +58,19 @@ td
 	white-space:normal;}
 .xl66
 	{mso-style-parent:style0;
-	text-align:center;
+	text-align:justify;
 	vertical-align:middle;
 	border:.5pt solid windowtext;
 	white-space:normal;}
 .xl67
 	{mso-style-parent:style0;
-	mso-number-format:"Short Date";
-	text-align:center;
-	vertical-align:middle;
+	text-align:left;
 	border:.5pt solid windowtext;
 	white-space:normal;}
 .xl68
 	{mso-style-parent:style0;
-	text-align:justify;
-	vertical-align:middle;
+	mso-number-format:"Short Date";
+	text-align:left;
 	border:.5pt solid windowtext;
 	white-space:normal;}
 .xl69
