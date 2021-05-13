@@ -13,7 +13,7 @@ br
 	text-underline-style:single;
 	font-family:Calibri, sans-serif;
 	mso-font-charset:0;
-	mso-style-name:HipervÃ­nculo;
+	mso-style-name:Hipervínculo;
 	mso-style-id:8;}
 a:link
 	{color:#0563C1;
@@ -97,17 +97,18 @@ td
 	white-space:normal;}
 .xl68
 	{mso-style-parent:style0;
-	text-align:justify;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	white-space:normal;}
+	mso-number-format:"Short Date";
+	text-align:left;
+	border:.5pt solid windowtext;}
 .xl69
 	{mso-style-parent:style0;
 	text-align:left;
 	border:.5pt solid windowtext;}
 .xl70
-	{mso-style-parent:style0;
-	mso-number-format:"Short Date";
+	{mso-style-parent:style17;
+	color:#0563C1;
+	text-decoration:underline;
+	text-underline-style:single;
 	text-align:left;
 	border:.5pt solid windowtext;}
 .xl71
@@ -119,13 +120,6 @@ td
 	border:.5pt solid windowtext;
 	white-space:normal;}
 .xl72
-	{mso-style-parent:style17;
-	color:#0563C1;
-	text-decoration:underline;
-	text-underline-style:single;
-	text-align:left;
-	border:.5pt solid windowtext;}
-.xl73
 	{mso-style-parent:style0;
 	font-size:10.0pt;
 	font-family:Arial, sans-serif;

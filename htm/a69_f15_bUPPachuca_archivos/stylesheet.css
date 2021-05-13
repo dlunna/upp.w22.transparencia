@@ -75,33 +75,23 @@ td
 	{mso-style-parent:style0;
 	mso-number-format:"Short Date";
 	text-align:left;
-	border:.5pt solid windowtext;
-	background:white;
-	mso-pattern:black none;
-	white-space:normal;}
+	border:.5pt solid windowtext;}
 .xl69
 	{mso-style-parent:style0;
 	mso-number-format:"Short Date";
 	text-align:left;
-	border:.5pt solid windowtext;}
+	border:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
 .xl70
+	{mso-style-parent:style0;
+	text-align:left;
+	border:.5pt solid windowtext;}
+.xl71
 	{mso-style-parent:style0;
 	text-align:justify;
 	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl71
-	{mso-style-parent:style0;
-	color:white;
-	font-weight:700;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	text-align:center;
-	border-top:.5pt solid windowtext;
-	border-right:none;
-	border-bottom:.5pt solid windowtext;
-	border-left:.5pt solid windowtext;
-	background:#333333;
-	mso-pattern:black none;
 	white-space:normal;}
 .xl72
 	{mso-style-parent:style0;

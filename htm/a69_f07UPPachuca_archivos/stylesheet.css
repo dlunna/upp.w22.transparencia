@@ -114,7 +114,7 @@ td
 	white-space:normal;}
 .xl71
 	{mso-style-parent:style0;
-	border:.5pt solid windowtext;}
+	text-align:left;}
 .xl72
 	{mso-style-parent:style0;
 	color:white;
@@ -133,3 +133,15 @@ td
 	border:.5pt solid windowtext;
 	background:#E1E1E1;
 	mso-pattern:black none;}
+.xl74
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border:.5pt solid windowtext;
+	background:#E1E1E1;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl75
+	{mso-style-parent:style0;
+	white-space:normal;}
