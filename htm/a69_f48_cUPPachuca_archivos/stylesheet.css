@@ -150,6 +150,10 @@ td
 	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	text-align:justify;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
 	background:#E1E1E1;
 	mso-pattern:black none;
 	white-space:normal;}

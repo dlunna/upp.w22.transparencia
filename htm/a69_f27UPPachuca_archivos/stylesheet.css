@@ -48,7 +48,8 @@ td
 .xl65
 	{mso-style-parent:style0;
 	font-size:10.0pt;
-	font-family:Arial, sans-serif;
+	font-family:Arial;
+	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	text-align:center;
 	border:.5pt solid windowtext;
@@ -57,10 +58,12 @@ td
 	white-space:normal;}
 .xl66
 	{mso-style-parent:style0;
+	text-align:left;
 	border:.5pt solid windowtext;}
 .xl67
 	{mso-style-parent:style0;
 	mso-number-format:"Short Date";
+	text-align:left;
 	border:.5pt solid windowtext;}
 .xl68
 	{mso-style-parent:style0;
@@ -71,7 +74,8 @@ td
 	{mso-style-parent:style0;
 	color:white;
 	font-weight:700;
-	font-family:Arial, sans-serif;
+	font-family:Arial;
+	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	text-align:center;
 	border:.5pt solid windowtext;
@@ -80,7 +84,8 @@ td
 .xl70
 	{mso-style-parent:style0;
 	font-size:10.0pt;
-	font-family:Arial, sans-serif;
+	font-family:Arial;
+	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	border:.5pt solid windowtext;
 	background:#E1E1E1;

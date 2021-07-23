@@ -4,35 +4,6 @@ col
 	{mso-width-source:auto;}
 br
 	{mso-data-placement:same-cell;}
-.style16
-	{color:#0563C1;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:underline;
-	text-underline-style:single;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;
-	mso-style-name:Hipervínculo;
-	mso-style-id:8;}
-a:link
-	{color:#0563C1;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:underline;
-	text-underline-style:single;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;}
-a:visited
-	{color:#954F72;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:underline;
-	text-underline-style:single;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;}
 .style0
 	{mso-number-format:General;
 	text-align:general;
@@ -77,7 +48,8 @@ td
 .xl65
 	{mso-style-parent:style0;
 	font-size:10.0pt;
-	font-family:Arial, sans-serif;
+	font-family:Arial;
+	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	text-align:center;
 	border:.5pt solid windowtext;
@@ -87,46 +59,46 @@ td
 .xl66
 	{mso-style-parent:style0;
 	text-align:left;
-	border:.5pt solid windowtext;}
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;}
 .xl67
 	{mso-style-parent:style0;
 	mso-number-format:"Short Date";
 	text-align:left;
-	border:.5pt solid windowtext;}
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;}
 .xl68
 	{mso-style-parent:style0;
 	text-align:left;
 	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
 	white-space:normal;}
 .xl69
 	{mso-style-parent:style0;
-	text-align:left;
-	border-top:.5pt solid windowtext;
-	border-right:.5pt solid windowtext;
-	border-bottom:.5pt solid windowtext;
-	border-left:none;}
-.xl70
-	{mso-style-parent:style16;
-	color:#0563C1;
-	text-decoration:underline;
-	text-underline-style:single;
-	text-align:left;
+	text-align:justify;
 	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
 	white-space:normal;}
-.xl71
+.xl70
 	{mso-style-parent:style0;
 	color:white;
 	font-weight:700;
-	font-family:Arial, sans-serif;
+	font-family:Arial;
+	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:#333333;
 	mso-pattern:black none;}
-.xl72
+.xl71
 	{mso-style-parent:style0;
 	font-size:10.0pt;
-	font-family:Arial, sans-serif;
+	font-family:Arial;
+	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	border:.5pt solid windowtext;
 	background:#E1E1E1;
