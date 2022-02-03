@@ -74,6 +74,11 @@ td
 	white-space:normal;}
 .xl69
 	{mso-style-parent:style0;
+	text-align:justify;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl70
+	{mso-style-parent:style0;
 	color:white;
 	font-weight:700;
 	font-family:Arial, sans-serif;
@@ -82,14 +87,6 @@ td
 	border:.5pt solid windowtext;
 	background:#333333;
 	mso-pattern:black none;}
-.xl70
-	{mso-style-parent:style0;
-	font-size:10.0pt;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	border:.5pt solid windowtext;
-	background:#E1E1E1;
-	mso-pattern:black none;}
 .xl71
 	{mso-style-parent:style0;
 	font-size:10.0pt;
@@ -97,8 +94,4 @@ td
 	mso-font-charset:0;
 	border:.5pt solid windowtext;
 	background:#E1E1E1;
-	mso-pattern:black none;
-	white-space:normal;}
-.xl72
-	{mso-style-parent:style0;
-	white-space:normal;}
+	mso-pattern:black none;}
