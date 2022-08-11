@@ -4,6 +4,35 @@ col
 	{mso-width-source:auto;}
 br
 	{mso-data-placement:same-cell;}
+.style16
+	{color:blue;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-style-name:Hipervínculo;
+	mso-style-id:8;}
+a:link
+	{color:blue;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;}
+a:visited
+	{color:purple;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;}
 .style0
 	{mso-number-format:General;
 	text-align:general;
@@ -75,7 +104,9 @@ td
 	border:.5pt solid windowtext;}
 .xl69
 	{mso-style-parent:style0;
-	text-align:left;}
+	color:black;
+	text-align:left;
+	border:.5pt solid windowtext;}
 .xl70
 	{mso-style-parent:style0;
 	text-align:justify;
@@ -83,8 +114,26 @@ td
 	white-space:normal;}
 .xl71
 	{mso-style-parent:style0;
-	color:black;}
+	mso-number-format:"\@";
+	text-align:left;
+	border:.5pt solid windowtext;}
 .xl72
+	{mso-style-parent:style0;
+	text-align:left;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl73
+	{mso-style-parent:style0;
+	border:.5pt solid windowtext;}
+.xl74
+	{mso-style-parent:style16;
+	color:blue;
+	text-decoration:underline;
+	text-underline-style:single;
+	text-align:left;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl75
 	{mso-style-parent:style0;
 	font-size:10.0pt;
 	font-family:Arial, sans-serif;
@@ -92,3 +141,18 @@ td
 	border:.5pt solid windowtext;
 	background:#E1E1E1;
 	mso-pattern:black none;}
+.xl76
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	background:#E1E1E1;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl77
+	{mso-style-parent:style0;
+	white-space:normal;}

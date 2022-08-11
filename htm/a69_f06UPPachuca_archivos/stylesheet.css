@@ -75,19 +75,19 @@ td
 	white-space:normal;}
 .xl70
 	{mso-style-parent:style0;
-	text-align:justify;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl71
-	{mso-style-parent:style0;
 	mso-number-format:Percent;
 	text-align:left;
 	border:.5pt solid windowtext;}
-.xl72
+.xl71
 	{mso-style-parent:style0;
 	mso-number-format:0%;
 	text-align:left;
 	border:.5pt solid windowtext;}
+.xl72
+	{mso-style-parent:style0;
+	text-align:justify;
+	border:.5pt solid windowtext;
+	white-space:normal;}
 .xl73
 	{mso-style-parent:style0;
 	color:white;
