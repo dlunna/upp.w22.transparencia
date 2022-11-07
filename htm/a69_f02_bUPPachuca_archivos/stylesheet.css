@@ -94,17 +94,20 @@ td
 	text-align:left;
 	border:.5pt solid windowtext;}
 .xl68
+	{mso-style-parent:style0;
+	text-align:left;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl69
 	{mso-style-parent:style16;
 	color:#0563C1;
 	text-decoration:underline;
 	text-underline-style:single;
 	text-align:left;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl69
-	{mso-style-parent:style0;
-	text-align:left;
-	border:.5pt solid windowtext;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
 	white-space:normal;}
 .xl70
 	{mso-style-parent:style0;

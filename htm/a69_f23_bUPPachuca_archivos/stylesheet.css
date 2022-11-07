@@ -4,35 +4,6 @@ col
 	{mso-width-source:auto;}
 br
 	{mso-data-placement:same-cell;}
-.style16
-	{color:blue;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:underline;
-	text-underline-style:single;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;
-	mso-style-name:Hipervínculo;
-	mso-style-id:8;}
-a:link
-	{color:blue;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:underline;
-	text-underline-style:single;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;}
-a:visited
-	{color:purple;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:underline;
-	text-underline-style:single;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;}
 .style0
 	{mso-number-format:General;
 	text-align:general;
@@ -128,13 +99,9 @@ td
 	border:.5pt solid windowtext;
 	white-space:normal;}
 .xl73
-	{mso-style-parent:style16;
-	color:blue;
-	text-decoration:underline;
-	text-underline-style:single;
-	text-align:left;
-	border:.5pt solid windowtext;
-	white-space:normal;}
+	{mso-style-parent:style0;
+	text-align:justify;
+	border:.5pt solid windowtext;}
 .xl74
 	{mso-style-parent:style0;
 	font-size:10.0pt;

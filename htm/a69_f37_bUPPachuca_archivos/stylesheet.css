@@ -75,15 +75,15 @@ td
 	border:.5pt solid windowtext;}
 .xl70
 	{mso-style-parent:style0;
-	mso-number-format:"Short Date";
-	text-align:justify;
-	border:.5pt solid windowtext;}
-.xl71
-	{mso-style-parent:style0;
-	text-align:justify;
+	text-align:left;
 	border:.5pt solid windowtext;
 	background:white;
 	mso-pattern:black none;
+	white-space:normal;}
+.xl71
+	{mso-style-parent:style0;
+	text-align:left;
+	border:.5pt solid windowtext;
 	white-space:normal;}
 .xl72
 	{mso-style-parent:style0;

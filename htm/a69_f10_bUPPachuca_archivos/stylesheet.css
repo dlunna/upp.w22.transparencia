@@ -57,16 +57,18 @@ td
 	white-space:normal;}
 .xl66
 	{mso-style-parent:style0;
-	mso-number-format:"Short Date";
 	text-align:left;
 	border:.5pt solid windowtext;}
 .xl67
 	{mso-style-parent:style0;
+	mso-number-format:"Short Date";
 	text-align:left;
 	border:.5pt solid windowtext;}
 .xl68
 	{mso-style-parent:style0;
-	text-align:left;}
+	text-align:left;
+	border:.5pt solid windowtext;
+	white-space:normal;}
 .xl69
 	{mso-style-parent:style0;
 	color:white;
