@@ -5,7 +5,7 @@ col
 br
 	{mso-data-placement:same-cell;}
 .style16
-	{color:#0563C1;
+	{color:blue;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
@@ -16,7 +16,7 @@ br
 	mso-style-name:Hipervínculo;
 	mso-style-id:8;}
 a:link
-	{color:#0563C1;
+	{color:blue;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
@@ -25,7 +25,7 @@ a:link
 	font-family:Calibri, sans-serif;
 	mso-font-charset:0;}
 a:visited
-	{color:#954F72;
+	{color:purple;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
@@ -85,35 +85,35 @@ td
 	mso-pattern:black none;
 	white-space:normal;}
 .xl66
-	{mso-style-parent:style0;
-	text-align:left;
-	border:.5pt solid windowtext;}
-.xl67
-	{mso-style-parent:style0;
-	mso-number-format:"Short Date";
-	text-align:left;
-	border:.5pt solid windowtext;}
-.xl68
-	{mso-style-parent:style0;
-	text-align:left;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl69
-	{mso-style-parent:style0;
-	mso-number-format:"Short Date";
-	text-align:left;
-	border:.5pt solid windowtext;
-	white-space:normal;}
-.xl70
 	{mso-style-parent:style16;
-	color:#0563C1;
+	color:blue;
 	text-decoration:underline;
 	text-underline-style:single;
 	text-align:left;
 	border:.5pt solid windowtext;}
+.xl67
+	{mso-style-parent:style0;
+	text-align:left;
+	border:.5pt solid windowtext;}
+.xl68
+	{mso-style-parent:style0;
+	mso-number-format:"Short Date";
+	text-align:left;
+	border:.5pt solid windowtext;}
+.xl69
+	{mso-style-parent:style0;
+	text-align:left;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl70
+	{mso-style-parent:style0;
+	mso-number-format:"Short Date";
+	text-align:left;
+	border:.5pt solid windowtext;
+	white-space:normal;}
 .xl71
 	{mso-style-parent:style16;
-	color:#0563C1;
+	color:blue;
 	text-decoration:underline;
 	text-underline-style:single;
 	text-align:left;
@@ -121,10 +121,17 @@ td
 	white-space:normal;}
 .xl72
 	{mso-style-parent:style0;
-	text-align:justify;
-	border:.5pt solid windowtext;
-	white-space:normal;}
+	color:black;
+	text-align:left;
+	border:.5pt solid windowtext;}
 .xl73
+	{mso-style-parent:style16;
+	color:blue;
+	text-decoration:underline;
+	text-underline-style:single;
+	text-align:left;
+	white-space:normal;}
+.xl74
 	{mso-style-parent:style0;
 	color:white;
 	font-weight:700;
@@ -134,14 +141,6 @@ td
 	border:.5pt solid windowtext;
 	background:#333333;
 	mso-pattern:black none;}
-.xl74
-	{mso-style-parent:style0;
-	font-size:10.0pt;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	border:.5pt solid windowtext;
-	background:#E1E1E1;
-	mso-pattern:black none;}
 .xl75
 	{mso-style-parent:style0;
 	font-size:10.0pt;
@@ -149,8 +148,4 @@ td
 	mso-font-charset:0;
 	border:.5pt solid windowtext;
 	background:#E1E1E1;
-	mso-pattern:black none;
-	white-space:normal;}
-.xl76
-	{mso-style-parent:style0;
-	white-space:normal;}
+	mso-pattern:black none;}

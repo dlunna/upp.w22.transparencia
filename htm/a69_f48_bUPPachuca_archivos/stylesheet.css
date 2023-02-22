@@ -104,7 +104,8 @@ td
 	text-decoration:underline;
 	text-underline-style:single;
 	text-align:left;
-	border:.5pt solid windowtext;}
+	border:.5pt solid windowtext;
+	white-space:normal;}
 .xl70
 	{mso-style-parent:style0;
 	color:white;
