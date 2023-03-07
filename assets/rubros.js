@@ -126,8 +126,14 @@ const rubros = [
 	    "icono":"http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/DictamenesFinancieros.png",
 	    "nombre":"25.Dictámenes de Estados Financieros"
 	},
+	/*
 	{
 		"url":"../48rubros/Asignacion_de_Recursos_Publicos_a_Personas.html",
+	    "icono":"http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/AsignacionRecursosPublicosPersonas.png",
+	    "nombre":"26.Asignacion de Recursos Publicos a Personas"
+	},*/
+	{
+		"url":"http://www.hgo.sep.gob.mx/transparencia/48rubros/Asignacion_de_Recursos_Publicos_a_Personas.html",
 	    "icono":"http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/AsignacionRecursosPublicosPersonas.png",
 	    "nombre":"26.Asignacion de Recursos Publicos a Personas"
 	},
