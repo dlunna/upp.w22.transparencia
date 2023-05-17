@@ -29,9 +29,7 @@ br
 	mso-style-id:5;}
 td
 	{mso-style-parent:style0;
-	padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
+	padding:0px;
 	mso-ignore:padding;
 	color:black;
 	font-size:11.0pt;
@@ -61,35 +59,34 @@ td
 	white-space:normal;}
 .xl66
 	{mso-style-parent:style0;
-	mso-number-format:"Short Date";
-	text-align:left;
+	color:black;
 	border:.5pt solid windowtext;}
 .xl67
 	{mso-style-parent:style0;
+	mso-number-format:"Short Date";
 	text-align:left;
 	border:.5pt solid windowtext;}
 .xl68
 	{mso-style-parent:style0;
 	text-align:left;
-	border:.5pt solid windowtext;
-	white-space:normal;}
+	border:.5pt solid windowtext;}
 .xl69
 	{mso-style-parent:style0;
 	text-align:left;
+	border:.5pt solid windowtext;
 	white-space:normal;}
 .xl70
+	{mso-style-parent:style0;
+	text-align:left;
+	white-space:normal;}
+.xl71
 	{mso-style-parent:style0;
 	mso-number-format:Percent;
 	text-align:left;
 	border:.5pt solid windowtext;}
-.xl71
-	{mso-style-parent:style0;
-	mso-number-format:0%;
-	text-align:left;
-	border:.5pt solid windowtext;}
 .xl72
 	{mso-style-parent:style0;
-	color:black;
+	mso-number-format:0%;
 	text-align:left;
 	border:.5pt solid windowtext;}
 .xl73
@@ -115,18 +112,3 @@ td
 	border:.5pt solid windowtext;
 	background:#E1E1E1;
 	mso-pattern:black none;}
-.xl76
-	{mso-style-parent:style0;
-	font-size:10.0pt;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	border-top:none;
-	border-right:none;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;
-	background:#E1E1E1;
-	mso-pattern:black none;
-	white-space:normal;}
-.xl77
-	{mso-style-parent:style0;
-	white-space:normal;}
