@@ -23,6 +23,10 @@ br
 	mso-protection:locked visible;
 	mso-style-name:Normal;
 	mso-style-id:0;}
+.style16
+	{mso-number-format:0%;
+	mso-style-name:Porcentaje;
+	mso-style-id:5;}
 td
 	{mso-style-parent:style0;
 	padding-top:1px;
@@ -68,27 +72,31 @@ td
 	white-space:normal;}
 .xl67
 	{mso-style-parent:style0;
-	text-align:left;
 	border:.5pt solid windowtext;}
 .xl68
 	{mso-style-parent:style0;
-	mso-number-format:"Short Date";
 	text-align:left;
 	border:.5pt solid windowtext;}
 .xl69
 	{mso-style-parent:style0;
-	text-align:left;}
+	mso-number-format:"Short Date";
+	text-align:left;
+	border:.5pt solid windowtext;}
 .xl70
 	{mso-style-parent:style0;
-	border:.5pt solid windowtext;}
-.xl71
-	{mso-style-parent:style0;
+	color:black;
 	text-align:justify;
 	border:.5pt solid windowtext;
 	white-space:normal;}
+.xl71
+	{mso-style-parent:style16;
+	mso-number-format:0%;
+	text-align:left;
+	border:.5pt solid windowtext;}
 .xl72
 	{mso-style-parent:style0;
-	text-align:center;
+	color:black;
+	text-align:left;
 	border:.5pt solid windowtext;}
 .xl73
 	{mso-style-parent:style0;
@@ -103,10 +111,7 @@ td
 	font-size:10.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	border-top:none;
-	border-right:none;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;
+	border:.5pt solid windowtext;
 	background:#E1E1E1;
 	mso-pattern:black none;
 	white-space:normal;}
