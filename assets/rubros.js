@@ -214,7 +214,8 @@ const rubros = [
 	    "nombre":"41.Estudios Pagados con Recursos Públicos"
 	},
 	{
-		"url":"http://oficialiamayor.hidalgo.gob.mx/transparencia/48rubros/Listado_de_Jubilados_y_Pensionados.html",
+		//"url":"http://oficialiamayor.hidalgo.gob.mx/transparencia/48rubros/Listado_de_Jubilados_y_Pensionados.html",
+		"url":"../48rubros/42-Listado_de_Jubilados_y_Pensionados.html",
 	    "icono":"http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/ListadoJubiladosPencionados.png",
 	    "nombre":"42.Listado de Jubilados y Pensionados"
 	},
